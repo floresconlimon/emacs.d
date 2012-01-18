@@ -1,0 +1,86 @@
+((("IN-PACKAGE" .
+   [0 0 0 1 0 0 0 0 0 0])
+  ("shuffletron:run" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1 0])
+  ("shuffletron].................." .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0])
+  ("Reise/Rammstein" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("/home/veel/music/Rammstein/[2004] Reise, Reise/" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("directory" .
+   [1 0 0 0 0 0 0 0 0])
+  ("Reise/" .
+   [1 0 0 0 0 0])
+  ("Reise" .
+   [1 0 0 0 0])
+  ("[2004]" .
+   [1 0 0 0 0 0])
+  ("playsong" .
+   [0 0 0 0 0 0 1 0])
+  ("/home/veel/music/Rammstein/[2001] Mutter/" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("/home/veel/music/Rammstein/[2005] Rosenrot/" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("/home/veel/music/Rammstein/" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 1 0 1 0 1 1])
+  ("first" .
+   [3 0 0 0 0])
+  ("list-directory" .
+   [0 0 0 0 3 0 0 0 0 0 0 0 0 0])
+  ("filename" .
+   [1 0 0 0 0 0 0 0])
+  ("mixalot-mp3:make-mp3-streamer" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("*mixer*" .
+   [1 0 0 0 0 1 0])
+  ("mixalot:mixer-add-streamer" .
+   [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("hs-show-all" .
+   [0 0 0 0 0 0 0 1 0 0 0])
+  ("hs-hide-all" .
+   [0 0 0 0 0 1 1 0 0 0 0])
+  ("hs-toggle-hiding" .
+   [0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0])
+  ("kbd" .
+   [1 0 0])
+  ("global-set-key" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("folding-mode-find-file" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("folding-isearch-|-char" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("remove-hook" .
+   [0 0 0 0 0 0 0 0 1 0 0])
+  ("find-file-hook" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 2])
+  ("hs-minor-mode" .
+   [0 0 1 0 0 0 1 0 0 0 0 0 1])
+  ("sleep" .
+   [2 0 0 0 0])
+  ("load-path" .
+   [2 0 0 0 0 0 0 1 1])
+  ("add-to-list" .
+   [0 0 0 0 0 0 0 0 0 0 4])
+  ("blink-cursor-mode" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("require" .
+   [2 0 0 0 0 0 1])
+  ("bbdb" .
+   [1 0 0 0])
+  ("/" .
+   [1])
+  ("add-hook" .
+   [0 0 0 0 0 0 1 1])
+  ("emacs-lisp-mode-hook" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("rainbow-delimiters-mode" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("False" .
+   [1 0 0 0 0])
+  ("NULL" .
+   [1 0 0 0])
+  ("shuffletron" .
+   [1 0 0 0 1 0 0 1 0 0 3])
+  ("help" .
+   [2 0 0 0])))

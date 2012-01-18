@@ -1,0 +1,22 @@
+sudo pacman -S alsaplayer
+sudo pacman -S alsaplayer
+alias ff 'find file $1'
+ls
+ff dwm.c
+alias ff 'find-file $1'
+ff dwm.c
+mv Downloads/dwmstatus-1.0.tar.gz ~/code
+find-file ~/code
+cd code/dwmstatus-1.0/
+ls
+find-file dwmstatus.c 
+make && sudo make clean inst all
+make && sudo make clean install
+ls
+find-file configure 
+./configure -l clisp
+make
+make install
+sudo make install clean
+cp clfswmrc ~/.config/clfswm/clfswmrc 
+git push

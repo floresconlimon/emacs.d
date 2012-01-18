@@ -1,0 +1,15 @@
+;;;; Emacs Bookmark Format Version 1 ;;;;
+;;; This format is meant to be slightly human-readable;
+;;; nevertheless, you probably don't want to edit it.
+;;; -*- End Of Bookmark File Format Version Stamp -*-
+(("kmap.lisp"
+ (filename . "~/code/dswm-0.0.4/kmap.lisp")
+ (front-context-string . ";; Copyright (C)")
+ (rear-context-string . "008 Shawn Betts\n")
+ (position . 40))
+("clfswmrc"
+ (filename . "~/code/Dotfiles/clfswmrc")
+ (front-context-string . "(in-package :clf")
+ (rear-context-string)
+ (position . 1))
+)
